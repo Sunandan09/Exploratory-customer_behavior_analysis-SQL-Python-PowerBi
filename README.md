@@ -66,12 +66,15 @@ Created an interactive Power BI dashboard to visualize customer behavior and pre
 - Target high-revenue customer age groups
 - Analyze express-shipping customers for targeted marketing
 
+
 ## 📁 Project Files
 
 - `customer_shopping_behavior_analysis.ipynb` – Python data cleaning and analysis
-- `customer_behavior_analysis.sql` – PostgreSQL queries
+- `customer_behavior_analysis.sql` – PostgreSQL queries and business analysis
 - `customer_shopping_behavior.csv` – Dataset
-- `PowerBI_Dashboard.pbix` – Power BI dashboard
+- `PowerBI_Dashboard.pbix` – Power BI interactive dashboard
+- `Customer Shopping Behavior Analysis Report.docx` – Detailed project report and analysis
+- `Customer Shopping Behavior Analysis.pptx` – Project presentation
 
 ## 🎯 Conclusion
 
