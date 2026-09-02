@@ -56,6 +56,7 @@ Loaded the cleaned dataset into PostgreSQL and answered key business questions, 
 ### 3. Power BI Dashboard
 
 Created an interactive Power BI dashboard to visualize customer behavior and present key business insights.
+![Power BI Dashboard](Screenshot 2026-09-01 215027.png)
 
 ## 💡 Key Business Recommendations
 
