@@ -70,7 +70,7 @@ Created an interactive Power BI dashboard to visualize customer behavior and pre
 
 ## 📁 Project Files
 
-- `customer_shopping_behavior_analysis.ipynb` – Python data cleaning and analysis
+- `Customer_shopping_behavior_analysis.ipynb` – Python data cleaning and analysis
 - `customer_behavior_analysis.sql` – PostgreSQL queries and business analysis
 - `customer_shopping_behavior.csv` – Dataset
 - `customer_behavior_dashboard.pbix` – Power BI interactive dashboard
